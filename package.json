@@ -1,0 +1,25 @@
+{
+  "name": "proxyengine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevEngineer/proxyengine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KevEngineer/proxyengine/issues"
+  },
+  "homepage": "https://github.com/KevEngineer/proxyengine#readme",
+  "dependencies": {
+    "knex": "^2.5.1",
+    "mysql": "^2.18.1",
+    "node-cron": "^3.0.2",
+    "proxy-lists": "^1.23.3"
+  }
+}
